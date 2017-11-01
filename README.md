@@ -4,4 +4,16 @@
 
 ##### _Repository for tutorials on Computational Design Sensibilities for the academic year 2017-18_
 
+##### 00_modeling
+
+##### 01_data structure
+
+##### 02_NURBS geometry
+
+##### 03_meshes
+
+##### XX_design strategies
+
+##### XX_untilities
+
 More code will be added, so keep an eye on this repo.
