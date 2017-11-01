@@ -14,6 +14,6 @@
 
 ##### XX_design strategies
 
-##### XX_untilities
+##### XX_utilities
 
 More code will be added, so keep an eye on this repo.
